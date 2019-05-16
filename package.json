@@ -1,0 +1,20 @@
+{
+  "name": "profuture",
+  "version": "1.0.0",
+  "description": "fullstack javascript dummy package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codehub",
+    "regeneration",
+    "fullstack",
+    "javascript"
+  ],
+  "author": "Giannis Kalogero",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
